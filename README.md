@@ -8,3 +8,6 @@ Main goal of this aplication was to get data from NBP (Narodowy Bank Polski) fro
 Then to use it for simple currency calculator.
 
 Aplication was written in C# as a WPF project.
+
+Application Window:
+![image](https://user-images.githubusercontent.com/65349462/111815569-1e737d80-88dc-11eb-8490-1d45fbb0ea86.png)
